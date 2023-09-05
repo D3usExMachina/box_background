@@ -1,0 +1,21 @@
+body {
+    background-color: #bfcbcd;
+    color: whitesmoke;
+    font-size: 21px;
+}
+h1 {
+    font-size: 50px;
+    color: #48e505; 
+}
+p {
+    color: #143904;
+}
+.box {
+    background-image:  url(../img/45deg.webp);
+    padding: 100px 100px;
+    margin: 100px;
+
+    background-repeat: inherit;
+}
+
+}
