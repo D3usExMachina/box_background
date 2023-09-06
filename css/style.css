@@ -1,5 +1,5 @@
 body {
-    background-color: #bfcbcd;
+    background-color: #70989f;
     color: whitesmoke;
     font-size: 21px;
 }
@@ -8,14 +8,12 @@ h1 {
     color: #48e505; 
 }
 p {
-    color: #143904;
+    color: #8cf95e;
 }
 .box {
-    background-image:  url(../img/45deg.webp);
+    background-image:  url(../img/coding_sprezzatura.jpg);
     padding: 100px 100px;
     margin: 100px;
-
-    background-repeat: inherit;
-}
-
+    background-size: cover;
+    background-position: bottom right;
 }
