@@ -15,5 +15,35 @@ p {
     padding: 100px 100px;
     margin: 100px;
     background-size: cover;
-    background-position: bottom right;
+    background-position: top;
 }
+/* style.css*/
+div {
+    color: rgb(213, 192, 192);
+}
+/* style.css*/
+.alert-text {
+    color: yellow;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+.severe-alert {
+    color: rgb(236, 60, 60);
+}
+#title {
+    background-color: aqua;
+    font-size: 13px;
+    font-style: italic;
+    color: firebrick;
+}
+.subsection.header {
+    color: red;
+  }
+  .subsection.header {
+    color: rgb(247, 135, 7);
+  }
+  
+  .subsection#preview {
+    color: rgb(129, 129, 135);
+  }
